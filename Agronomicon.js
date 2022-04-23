@@ -27,7 +27,7 @@ SOFTWARE.
 
 // ======= DATA =======
 
-var VERSION = 2.022;    // Should match the game version
+var VERSION = 2.031;    // Should match the game version
 var REVISION = 0;       // If not 0, the version of the script will be e.g. "2.022
 var IS_DEV = false;     // If true, the version will be e.g. "2.022-next"
 var IS_BETA = false;    // If true, the version display will show "(beta)" after the version
