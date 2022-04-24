@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Cookie Clicker Agronomicon
-// @namespace    https://github.com/toonsmike/
-// @homepageURL  https://toonsmike.github.io/agronomicon/
-// @updateURL    https://toonsmike.github.io/agronomicon/AgronomiconLoader.user.js
-// @downloadURL  https://toonsmike.github.io/agronomicon/AgronomiconLoader.user.js
+// @namespace    https://github.com/berstaken/
+// @homepageURL  https://berstaken.github.io/agronomicon/
+// @updateURL    https://berstaken.github.io/agronomicon/AgronomiconLoader.user.js
+// @downloadURL  https://berstaken.github.io/agronomicon/AgronomiconLoader.user.js
 // @version      1.0
 // @description  Load the Agronomicon when Cookie Clicker starts
 // @author       Acharvak
@@ -19,7 +19,7 @@ window.eval("(" + (function() {
     var loadFunc = function() {
         var Game = window.Game;
         if(Game && Game.ready) {
-            Game.LoadMod('https://toonsmike.github.io/agronomicon/Agronomicon.js');
+            Game.LoadMod('https://berstaken.github.io/agronomicon/Agronomicon.js');
             return true;
         } else {
             return false;
