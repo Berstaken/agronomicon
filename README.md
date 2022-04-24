@@ -12,19 +12,18 @@ Playing [Cookie Clicker](http://orteil.dashnet.org/cookieclicker), doing some ga
 
 **Latest version:** 2.022
 
-**Important notice:** I’m not much into clicking cookies these days. If someone wants to take over this mod or integrate it into a larger mod, please [open an issue in the tracker](https://github.com/Acharvak/Cookie-Clicker-Agronomicon/issues). I’ll keep supporting this mod for the time being, though.
-
+Original by Acharvak. Link can be found here: (https://github.com/Acharvak/Cookie-Clicker-Agronomicon
 
 Compatibility
 -------------
-Compatible with game version 2.022 (the latest as of 24 May 2020). Tested in Chrome and Firefox. Can be used together with [Cookie Monster](https://github.com/Aktanusa/CookieMonster) and probably other add-ons, as long as they don’t affect the garden (at least don’t completely change it).
+Compatible with game version 2.031 (the latest as of 24 May 2020). Tested in Chrome and Firefox. Can be used together with [Cookie Monster](https://github.com/Aktanusa/CookieMonster) and probably other add-ons, as long as they don’t affect the garden (at least don’t completely change it).
 
 
 Try it
 ------
 To load the Agronomicon, go to [the game’s page](http://orteil.dashnet.org/cookieclicker), wait for it to fully load, open your browser’s console (depends on the browser, but usually possible by right-clicking, selecting “Inspect” or “Inspect Element”, then finding and clicking on the “Console” button), and enter the following:
 
-    Game.LoadMod('https://acharvak.github.io/Cookie-Clicker-Agronomicon/Agronomicon.js')
+    Game.LoadMod('https://berstaken.github.io/agronomicon/Agronomicon.js')
 
 and then press Enter. If you copy and paste the command, some browsers may demand confirmation that you know what you’re doing.
 
@@ -39,7 +38,7 @@ Then click on the link below. You will likely be prompted to install the userscr
 
 **Link to the userscript**:
 
-* https://acharvak.github.io/Cookie-Clicker-Agronomicon/AgronomiconLoader.user.js
+* https://berstaken.github.io/agronomicon/AgronomiconLoader.user.js
 
 **Upgrade notice:** if you have an old version of the userscript (one that loads from bitbucket.org), uninstall it before installing the new version using the link above.
 
